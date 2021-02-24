@@ -1,0 +1,7 @@
+*.iml
+.idea
+/target/
+/reports/
+/src/main/java/com/anyclip/models/generated/
+.DS_Store
+
