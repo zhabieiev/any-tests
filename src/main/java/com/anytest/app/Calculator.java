@@ -1,4 +1,4 @@
-package com.anyclip.app;
+package com.anytest.app;
 
 public class Calculator {
     public int add(int a, int b) {
